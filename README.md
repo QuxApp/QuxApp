@@ -9,7 +9,10 @@ I am a programmer, designer, and chess player. Most of my projects are centred a
 
 <a href="https://github.com/quxapp"><img src="https://github-readme-stats.vercel.app/api?username=quxapp&bg_color=2f3136&title_color=1a73e8&text_color=fff&icon_color=fff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"></a>
 
-## Programming Languages
+## Skills
 - **JavaScript**
+- **Vue**
 - **Python**
+- **Dart**
 - **C#**
+- **Figma**
